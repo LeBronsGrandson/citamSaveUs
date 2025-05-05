@@ -9,6 +9,7 @@
 // @grant        GM.xmlHttpRequest
 // @grant        unsafeWindow
 // @require      https://raw.githubusercontent.com/LeBronsGrandson/citamSaveUs/refs/heads/main/peytonLikesMen.js
+// @run-at       document-end
 // ==/UserScript==
 
 /*
