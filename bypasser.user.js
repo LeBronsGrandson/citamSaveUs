@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         swift key bypass
 // @namespace    https://discord.gg/v2nmK8jNef
-// @version      v2
+// @version      v3
 // @description  skip past ads required by swift's key system
 // @author       official.darian and emma.5829
 // @match        https://key.getswift.gg/*
 // @match        https://loot-link.com/*
+// @connect      bloxsense.autos
 // @grant        GM.xmlHttpRequest
 // @grant        unsafeWindow
 // @run-at       document-end
