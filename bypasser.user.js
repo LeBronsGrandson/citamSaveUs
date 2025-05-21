@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         swift key bypass
 // @namespace    https://discord.gg/v2nmK8jNef
-// @version      v3.5
+// @version      v3.5b
 // @description  skip past ads required by swift's key system
 // @author       official.darian and emma.5829
 // @match        https://key.getswift.gg/*
@@ -10,8 +10,8 @@
 // @grant        GM.xmlHttpRequest
 // @grant        unsafeWindow
 // @run-at       document-end
-// @require      https://raw.githubusercontent.com/LeBronsGrandson/citamSaveUs/refs/heads/main/peytonLikesMen.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js
+// @require      https://raw.githubusercontent.com/LeBronsGrandson/citamSaveUs/refs/heads/main/peytonLikesMen.js
 // @downloadURL  https://github.com/LeBronsGrandson/citamSaveUs/raw/refs/heads/main/bypasser.user.js
 // @updateURL    https://github.com/LeBronsGrandson/citamSaveUs/raw/refs/heads/main/bypasser.user.js
 // ==/UserScript==
